@@ -1,0 +1,195 @@
+#cabecera {
+  border-bottom: 1px solid black;
+  margin-left: 35px;
+  margin-right: 35px;
+}
+#cabecera h2 {
+  text-align: center;
+  color: #666666;
+}
+#cabecera p {
+  text-align: center;
+  position: relative;
+  bottom: 13px;
+  color: #666666;
+}
+
+.layout {
+  display: flex;
+  justify-content: space-around;
+}
+.layout .caja {
+  margin-top: 10px;
+  border-radius: 2%;
+}
+.layout .caja1 ul li {
+  list-style: none;
+  margin-bottom: 15px;
+  color: #776E75;
+}
+.layout .caja2 {
+  border: 1px solid #B4B4B4;
+  width: 579px;
+}
+.layout .caja2 img {
+  margin-left: 90px;
+  height: 205px;
+  width: 400px;
+  padding-top: 20px;
+  border-radius: 40px;
+}
+.layout .caja2 p {
+  text-align: center;
+  color: #776E75;
+}
+.layout .caja3 {
+  border: 1px solid #B4B4B4;
+}
+.layout .caja3 img {
+  padding-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  height: 180px;
+  width: 314px;
+  border-radius: 40px;
+}
+.layout .caja3 p {
+  text-align: center;
+  color: #666669;
+}
+
+.layout {
+  display: flex;
+  justify-content: space-around;
+}
+.layout .caja {
+  margin-top: 10px;
+  border-radius: 2%;
+}
+.layout .caja1 ul li {
+  list-style: none;
+  margin-bottom: 15px;
+  color: #776E75;
+}
+.layout .caja2 {
+  border: 1px solid #B4B4B4;
+  width: 579px;
+}
+.layout .caja2 img {
+  margin-left: 90px;
+  height: 205px;
+  width: 400px;
+  padding-top: 20px;
+  border-radius: 40px;
+}
+.layout .caja2 p {
+  text-align: center;
+  color: #776E75;
+}
+.layout .caja3 {
+  border: 1px solid #B4B4B4;
+}
+.layout .caja3 img {
+  padding-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  height: 180px;
+  width: 314px;
+  border-radius: 40px;
+}
+.layout .caja3 p {
+  text-align: center;
+  color: #666669;
+}
+
+.imagenes {
+  display: flex;
+  justify-content: space-around;
+  margin-left: 221px;
+}
+.imagenes .form {
+  margin-top: 15px;
+  margin-right: 20px;
+  border-radius: 2%;
+}
+.imagenes .form1 {
+  width: 300px;
+  height: 180px;
+  border: 1px solid #B4B4B4;
+}
+.imagenes .form1 img {
+  width: 280px;
+  height: 100px;
+  margin-left: 8px;
+  margin-top: 9px;
+  border-radius: 8%;
+}
+.imagenes .form1 p {
+  text-align: center;
+  color: #666669;
+}
+.imagenes .form2 {
+  border: 1px solid #B4B4B4;
+  width: 300px;
+  height: 180px;
+}
+.imagenes .form2 img {
+  width: 280px;
+  height: 100px;
+  margin-left: 8px;
+  margin-top: 9px;
+  border-radius: 8%;
+}
+.imagenes .form2 p {
+  text-align: center;
+  color: #666669;
+}
+.imagenes .form3 {
+  border: 1px solid #B4B4B4;
+  width: 300px;
+  height: 180px;
+}
+.imagenes .form3 img {
+  width: 280px;
+  height: 100px;
+  margin-left: 8px;
+  margin-top: 9px;
+  border-radius: 8%;
+}
+.imagenes .form3 p {
+  text-align: center;
+  color: #666669;
+}
+
+.pie {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 100px;
+  margin-top: 40px;
+  border-top: 1px solid black;
+}
+.pie .cajita {
+  margin-top: 10px;
+}
+.pie .cajita1 p {
+  color: #666669;
+}
+.pie .cajita1 span {
+  color: #666669;
+  position: relative;
+  bottom: 15px;
+}
+.pie .cajita2 {
+  margin-left: 60px;
+}
+.pie .cajita2 p {
+  color: #666669;
+}
+.pie .cajita3 img {
+  width: 50px;
+  height: 50px;
+  position: relative;
+  right: 54px;
+}
+
+/*# sourceMappingURL=style.css.map */
